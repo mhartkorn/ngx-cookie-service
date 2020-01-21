@@ -1,3 +1,7 @@
+# 2.3.1
+- Include fix for cookie policy change for SameSite attribute in Chrome >= 80
+- Fix exception when cookie is not url encoded
+
 # 2.3.0
 - `sameSite` now defaults to `None`
  
